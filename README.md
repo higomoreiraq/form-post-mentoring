@@ -1,27 +1,70 @@
-# Form-Post-Mentoring
-Formulário - Pós Mentoria
+# Formulário de Avaliação de Mentoria 📋
 
-![image](https://user-images.githubusercontent.com/107502907/180863157-f4c98c13-bfd7-4f3e-ae36-0bd31ac049c1.png)
-![image](https://user-images.githubusercontent.com/107502907/180862929-98fe5c51-44bc-4726-8f8e-3ce514780d94.png)
+Projeto de formulário para avaliação e reagendamento de nova mentoria, contendo os principais campos de preenchimento do usuário.
 
+![image](https://user-images.githubusercontent.com/107502907/191766760-597366ae-ff1f-41a2-bf6c-e5224159d1e7.png)
 
------------------ Português -----------------
+## Descrição
 
-Esta é uma aplicação de um exemplo de formulário de avaliação de mentoria.
-Onde o usuário preenche seus dedos, seleciona o seu mentor e informa um feedback sobre como foi a sua mentoria.
+O usuário preencherá o formulário com seus dados, nome do mentor e informa um feedback sobre como foi a sua mentoria.
 
-O usuário pode ainda marcar o checkbox informando se todas as suas dúvidas foram esclarecidas e por fim,
+Podendo ainda marcar o checkbox informando se todas as suas dúvidas foram esclarecidas e por fim,
 caso deseje, agendar uma próxima mentoria.
 
-A aplicação utiliza apenas HTML e CSS, com a utilização do atributo "required" nos campos de dados essenciais.
+O Projeto possui em sua composição elementos como: fieldset com legend, variações de input, textarea, select, checkbox, etc.
 
+Destaque para as requisições de obrigatoriedade em determinados campos com o atributo "required".
 
------------------ English -----------------
+## Tecnologias utilizadas:
 
-This is an application of an example mentoring assessment form.
-Where the user fills in their fingers, selects their mentor and provides feedback on how their mentorship went.
+- HTML;
+- CSS.
 
-The user can also mark the checkbox informing if all their doubts have been clarified and finally,
+## Preview
+
+para conferir o projeto, acesse:
+
+- https://higomoreiraq.github.io/form-post-mentoring/
+
+## Contato
+
+[![bio](https://img.shields.io/badge/bio_higomoreiraq-F67669?style=for-the-badge&logo=ko-fi&logoColor=white)](https://higomoreiraq.github.io/Bio-Higo-Moreira/)
+
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/107502907/191767100-20c91024-d2ee-4187-a776-f0106d819c0d.png)
+
+![image](https://user-images.githubusercontent.com/107502907/191766929-fdc0b5fe-e2de-48f0-8fdb-eaf0316c9a1f.png)
+
+#
+# 🌎 English
+
+# Mentorship Evaluation Form 📋
+
+Form design for evaluation and rescheduling of new mentorship, containing the main fields to be filled in by the user.
+
+## Description
+
+The user will fill in the form with their data, name of the mentor and provide feedback on how their mentoring was.
+
+You can also mark the checkbox informing if all your doubts have been clarified and finally,
 if you wish, schedule a next mentorship.
 
-The application uses only HTML and CSS, with the use of the "required" attribute in the essential data fields.
+The Project has in its composition elements such as: fieldset with legend, input variations, textarea, select, checkbox, etc.
+
+Highlight for mandatory requests in certain fields with the "required" attribute.
+
+## Technologies used:
+
+- HTML;
+- CSS.
+
+## Preview
+
+To see the project, go to:
+
+- https://higomoreiraq.github.io/form-post-mentoring/
+
+## Contact
+
+[![bio](https://img.shields.io/badge/bio_higomoreiraq-F67669?style=for-the-badge&logo=ko-fi&logoColor=white)](https://higomoreiraq.github.io/Bio-Higo-Moreira/)
